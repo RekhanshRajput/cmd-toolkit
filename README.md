@@ -114,20 +114,16 @@ Built completely using **Windows Batch Script (.bat)** with a clean cyberpunk te
 
 ## 🔥 Main Menu
 
-![Main Menu]<img width="421" height="386" alt="image" src="https://github.com/user-attachments/assets/209fad8a-55de-4693-96d2-33cb5919f190" />
+<img width="421" height="386" alt="image" src="https://github.com/user-attachments/assets/209fad8a-55de-4693-96d2-33cb5919f190" />
 
 
 ---
 
-## 🟢 Matrix Effect
-
-![Matrix](screenshots/matrix.png)
-
----
 
 ## 🖥️ System Information
 
-![System Info](screenshots/systeminfo.png)
+<img width="340" height="95" alt="image" src="https://github.com/user-attachments/assets/affc13e0-39f8-415f-9573-01d4b8ae7edd" />
+
 
 ---
 
@@ -136,7 +132,7 @@ Built completely using **Windows Batch Script (.bat)** with a clean cyberpunk te
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sniper-cmd-toolkit.git
+git clone https://github.com/RekhanshRajput/sniper-cmd-toolkit.git
 ```
 
 ---
@@ -165,33 +161,6 @@ sniper_toolkit.bat
 
 ---
 
-# 📂 Project Structure
-
-```bash
-sniper-cmd-toolkit/
-│
-├── sniper_toolkit.bat
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-├── .gitignore
-│
-├── logs/
-│   └── activity.log
-│
-├── reports/
-│   └── report.txt
-│
-├── screenshots/
-│   ├── menu.png
-│   ├── matrix.png
-│   └── systeminfo.png
-│
-└── assets/
-    └── banner.png
-```
-
----
 
 # 🛠️ Requirements
 
@@ -230,7 +199,7 @@ The developer is **not responsible** for misuse.
 
 # 👨‍💻 Author
 
-# DarkSniper_X
+# Rekhansh Rajput 
 
 > Cybersecurity Enthusiast • Batch Developer • OSINT Learner
 
