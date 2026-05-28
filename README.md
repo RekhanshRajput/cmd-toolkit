@@ -1,7 +1,7 @@
-# 🔥 SNIPER CMD TOOL KIT ULTIMATE
+# 🔥 SNIPER CMD TOOL KIT 
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+ 
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 # ⚡ About
 
-**SNIPER CMD TOOL KIT ULTIMATE** is an advanced Windows Batch toolkit designed for:
+**SNIPER CMD TOOL KIT ** is an advanced Windows Batch toolkit designed for:
 
 - 🖥️ System Monitoring
 - 🌐 Network Analysis
