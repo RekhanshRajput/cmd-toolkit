@@ -114,7 +114,8 @@ Built completely using **Windows Batch Script (.bat)** with a clean cyberpunk te
 
 ## 🔥 Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu]<img width="421" height="386" alt="image" src="https://github.com/user-attachments/assets/209fad8a-55de-4693-96d2-33cb5919f190" />
+
 
 ---
 
